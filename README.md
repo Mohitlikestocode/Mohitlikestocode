@@ -9,12 +9,20 @@
 
 ## 👤 About Me
 
-- 🎓 I'm a student at **Shiv Nadar**
-- 📚 My major is **_____**
-- 🌍 Currently living in **_____**
-- 💻 I love **_____**
-- 🎯 My goals: **_____**
-- 🧠 Fun fact: have problem 👉 sleep, happy 👉 sleep, sad 👉 sleep ~~ everything 👉 sleep
+- 🎓 **B.Tech CSE student** at **Shiv Nadar University (2024–28)**  
+- 📈 Current CGPA: **8.2 / 10**  
+- 🏆 **Smart SNU Hackathon Winner** *(1st out of 50+ teams)*  
+- 💼 **Ernst & Young (EY) Project Intern – Salesforce & MERN**  
+  - Salesforce Automation, Case Management, Flows  
+  - Built MERN-stack REST API integrations  
+  - Agentforce Superbadge & Trailblazer Event  
+- 🌐 **DeepWave AI Web App**  
+  - Real-time tsunami risk prediction (94% accuracy)  
+  - Interactive 3D globe in TypeScript / TSX  
+  - ML-powered backend with responsive design  
+- 👨‍💻 **Languages:** Python, JavaScript, TypeScript, Java, C++  
+- 💡 Always exploring new tech & building cool projects  
+- 🎯 Fun fact: Love solving DSA on Leetcode & Codeforces *(1050+ rating)*  
 
 </td>
 <td>
