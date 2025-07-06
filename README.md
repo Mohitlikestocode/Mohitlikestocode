@@ -1,16 +1,29 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Sai+Mohit+Kotta;Welcome+to+my+profile!" alt="Title" />
-</div>
+<h1 align="center">Heyy! I'm Sai Mohit Kotta <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" /></h1>
+<h3 align="center">Welcome to my GitHub Profile!</h3>
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px"> About Me
+---
 
-- 🪪 My full name is **Sai Mohit Kotta** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="300" align="right" />
-- 🎓 I'm currently a student at **Shiv Nadar**
+<table>
+<tr>
+<td>
+
+## 👤 About Me
+
+- 🎓 I'm a student at **Shiv Nadar**
 - 📚 My major is **_____**
 - 🌍 Currently living in **_____**
 - 💻 I love **_____**
 - 🎯 My goals: **_____**
-- ✨ Fun fact: have problem 👉 sleep, happy 👉 sleep, sad 👉 sleep ~~ everything 👉 sleep
+- 🧠 Fun fact: have problem 👉 sleep, happy 👉 sleep, sad 👉 sleep ~~ everything 👉 sleep
+
+</td>
+<td>
+
+<img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="300"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
