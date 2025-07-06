@@ -1,7 +1,7 @@
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
-<h1 align="center">Heyyy! I'm Sai Mohit Kotta</h1>
 
+<h1 align="center">Heyyy! I'm Sai Mohit Kotta</h1> ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> 
+About Me
 <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
 - :school: I'm currently the Final year student at **IIT Kharagpur**
 - :books: My major is **Software Engineering**
