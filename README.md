@@ -1,13 +1,11 @@
-<h1 align="center">Heyyy! I'm Sai Mohit Kotta <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" /></h1>
+<h1 align="center">Heyy! I'm Sai Mohit Kotta <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" /></h1>
 <h3 align="center">Welcome to my GitHub Profile!</h3>
 
-<br>
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" alt="Tom and Jerry GIF" width="400"/>
-</div>
-
 ---
+
+<table>
+<tr>
+<td>
 
 ## 👤 About Me
 
@@ -17,6 +15,15 @@
 - 💻 I love **_____**
 - 🎯 My goals: **_____**
 - 🧠 Fun fact: have problem 👉 sleep, happy 👉 sleep, sad 👉 sleep ~~ everything 👉 sleep
+
+</td>
+<td>
+
+<img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="300"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
