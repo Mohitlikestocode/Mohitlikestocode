@@ -18,6 +18,7 @@
 
 Here's a portfolio website I've been working with - https://mohitportfolio-pi.vercel.app/
 - I used help of chatgpt but slowly I've been coding on top of this website with my frontend skills that I recently learnt!
+- It is not filled with sample tech stack and details - which are not true (lol)
 
 </td>
 <td>
