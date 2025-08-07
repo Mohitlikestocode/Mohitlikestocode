@@ -14,7 +14,7 @@
 - 🌍 Currently based in **Delhi**
 - 💻 I love **Coding, music and podcasts!**
 - 🎯 My goals: **is to build websites about topics I am truly passionate about! Currently I'm building an Tsunami prediction website!**
-- 🧠 Fun fact - **Sleep is the best thing in the world, it's my number 1 protector**
+- 🧠 Fun fact - **Sleep is the best thing in the world, it's my number 1 protector :) **
 
 Here's a portfolio website I've been working with - https://mohitportfolio-pi.vercel.app/
 - I used help of chatgpt but slowly I've been coding on top of this website with my frontend skills that I recently learnt!
