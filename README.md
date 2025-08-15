@@ -84,47 +84,12 @@ Here's a portfolio website I've been working with - https://mohitportfolio-pi.ve
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Mohitlikestocode&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-
-</div>
-
----
 
 ### 💳 Profile Summary Card
 
 <div align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohitlikestocode&theme=github_dark)
-
-</div>
-
----
-
-### 🔥 Streak Stats
-
-<div align="center">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mohitlikestocode&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
-
-</div>
-
----
-
-### 📈 Activity Graph
-
-[![Mohit's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohitlikestocode&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### 📊 Most Used Languages
-
-<div align="center">
-
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=Mohitlikestocode&show_icons=true&locale=en&layout=compact&theme=radical)]()
 
 </div>
 
