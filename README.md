@@ -11,7 +11,7 @@
 
 - 🎓 I'm a student at **Shiv Nadar**
 - 📚 My major is **CSE, I'm a 2nd year student :P**
-- 🌍 Currently based in **Delhi**
+- 🌍 Currently working on few interesting projects, one of them is a hotel website, and another is a automatic commiter to github based on leetcode submissions **Delhi**
 - 💻 I love **Coding, music and podcasts!**
 - 🎯 My goals: **is to build websites about topics I am truly passionate about! Currently I'm building an Tsunami prediction website!**
 - 🧠 Fun fact - **Sleep is the best thing in the world, it's my number 1 protector :) **
