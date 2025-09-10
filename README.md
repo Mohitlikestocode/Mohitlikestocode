@@ -43,6 +43,18 @@ Here’s my portfolio: [mohitportfolio-pi.vercel.app](https://mohitportfolio-pi.
 <img src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
 </a>
 
+<a href="https://leetcode.com/u/Mohitlikestocode/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-%23333333.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="leetcode" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://codeforces.com/profile/Mohitlikestocode" target="_blank">
+<img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="codeforces" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://codolio.com/profile/Mohitlikestocode" target="_blank">
+<img src="https://img.shields.io/badge/Codolio-%23FF6D00.svg?style=for-the-badge&logo=Codio&logoColor=white" alt="codolio" style="margin-bottom: 5px;" />
+</a>
+
 </div>
 
 ---
@@ -66,13 +78,11 @@ Here’s my portfolio: [mohitportfolio-pi.vercel.app](https://mohitportfolio-pi.
 
 #### 📚 ML & Data Science Libraries
 
-
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-
 
 #### 🧰 Tools
 
@@ -89,10 +99,7 @@ Here’s my portfolio: [mohitportfolio-pi.vercel.app](https://mohitportfolio-pi.
 
 ### 💳 Profile Summary Card
 
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohitlikestocode&theme=github_dark)
-
-</div>
 
 ---
 
