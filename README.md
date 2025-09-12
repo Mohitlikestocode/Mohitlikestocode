@@ -97,13 +97,6 @@ Here’s my portfolio: [mohitportfolio-pi.vercel.app](https://mohitportfolio-pi.
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-### 💳 Profile Summary Card
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohitlikestocode&theme=github_dark)
 
 ---
 
