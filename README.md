@@ -55,6 +55,11 @@ Here’s my portfolio: [mohitportfolio-pi.vercel.app](https://mohitportfolio-pi.
 <img src="https://img.shields.io/badge/Codolio-%23FF6D00.svg?style=for-the-badge&logo=Codio&logoColor=white" alt="codolio" style="margin-bottom: 5px;" />
 </a>
 
+<a href="https://www.codechef.com/users/mohitlearns" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-%235B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="codechef" style="margin-bottom: 5px;" />
+</a>
+
+
 </div>
 
 ---
