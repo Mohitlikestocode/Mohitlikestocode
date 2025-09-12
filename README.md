@@ -19,8 +19,7 @@
 - 🎯 My goals: **To build impactful websites & ML projects. Currently working on a Tsunami Prediction Website 🌊**
 - 🧠 Fun fact - **Sleep is my #1 superpower 😴**
 
-Here’s my portfolio: [mohitportfolio-pi.vercel.app](https://mohitportfolio-pi.vercel.app/)  
-*(Started with ChatGPT’s help, but now improving it with my own frontend skills 🚀)*
+Here’s my portfolio: [mohitportfolio-pi.vercel.app](https://mohitportfolio-pi.vercel.app/) 
 
 </td>
 <td>
