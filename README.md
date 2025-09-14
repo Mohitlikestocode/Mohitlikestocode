@@ -36,11 +36,12 @@ Here’s my portfolio: [mohitportfolio-pi.vercel.app](https://mohitportfolio-pi.
 
 ## 🌐 Connect with me:
 
-<p align="left">
+<p align="center">
 <a href="https://x.com/MohitLearning" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MohitLearning" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sai-mohit-kotta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sai Mohit Kotta" height="30" width="40" /></a>
-<a href="mailto:kottasaimohit@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="kottasaimohit@gmail.com" height="30" width="40" /></a>
+<a href="mailto:kottasaimohit@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="30" width="40" /></a>
 </p>
+
 
 ---
 
