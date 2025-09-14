@@ -37,14 +37,16 @@ Here’s my portfolio: [mohitportfolio-pi.vercel.app](https://mohitportfolio-pi.
 ## 🌐 Connect with me:
 
 <p align="center">
-<a href="https://x.com/MohitLearning" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MohitLearning" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sai-mohit-kotta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sai Mohit Kotta" height="30" width="40" /></a>
-<a href="mailto:kottasaimohit@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sai-mohit-kotta/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sai Mohit Kotta" height="33" width="40" style="margin: 0 20px;" />
+  </a>
+  <a href="mailto:kottasaimohit@gmail.com" target="blank">
+    <img align="center" src="https://github.com/user-attachments/assets/ba0d8599-9df3-476f-98cd-f9e17e8933c2" alt="Email" height="50" width="40" style="margin: 0 20px;" />
+  </a>
+  <a href="https://x.com/MohitLearning" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MohitLearning" height="40" width="40" style="margin: 0 20px;" />
+  </a>
 </p>
-
-
-
----
 
 <div align="center">
 
