@@ -39,8 +39,9 @@ Here’s my portfolio: [mohitportfolio-pi.vercel.app](https://mohitportfolio-pi.
 <p align="center">
 <a href="https://x.com/MohitLearning" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MohitLearning" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sai-mohit-kotta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sai Mohit Kotta" height="30" width="40" /></a>
-<a href="mailto:kottasaimohit@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="30" width="40" /></a>
+<a href="mailto:kottasaimohit@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" height="30" width="40" /></a>
 </p>
+
 
 
 ---
