@@ -34,15 +34,17 @@ Here’s my portfolio: [mohitportfolio-pi.vercel.app](https://mohitportfolio-pi.
 
 ---
 
+## 🌐 Connect with me:
+
+<p align="left">
+<a href="https://x.com/MohitLearning" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MohitLearning" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sai-mohit-kotta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sai Mohit Kotta" height="30" width="40" /></a>
+<a href="mailto:kottasaimohit@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="kottasaimohit@gmail.com" height="30" width="40" /></a>
+</p>
+
+---
+
 <div align="center">
-
-<a href="https://www.linkedin.com/in/sai-mohit-kotta/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://x.com/MohitLearning" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
-</a>
 
 <a href="https://leetcode.com/u/Mohitlikestocode/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-%23333333.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="leetcode" style="margin-bottom: 5px;" />
