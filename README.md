@@ -14,7 +14,8 @@
 - 🧩 Solved **250+ Data Structures & Algorithms problems** across platforms  
 - 🏅 Rated **Pupil on Codeforces**
 - 🌍 Currently working on:  
-  - 🔹 A **Hotel Website**  
+  - 🔹 A **Hotel Website**
+  - 🔹 A **Leetcode Friends Chrome Extensio**  
   - 🔹 An **Automatic GitHub Committer** (based on LeetCode submissions)  
   - 🔹 An **ML Project for Next Word Prediction** using **Deep Learning & NLP** 🧠✨
 - 💻 I love **Coding, Music, and Podcasts!**
