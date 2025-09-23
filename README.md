@@ -11,7 +11,7 @@
 
 - 🎓 I'm a student at **Shiv Nadar University**
 - 📚 Majoring in **Computer Science (2nd Year)**
-- 🧩 Solved **250+ Data Structures & Algorithms problems** across platforms  
+- 🧩 Solved **300+ Data Structures & Algorithms problems** across platforms  
 - 🏅 Rated **Pupil on Codeforces**
 - 🌍 Currently working on:  
   - 🔹 A **Hotel Website**
