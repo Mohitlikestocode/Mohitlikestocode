@@ -15,11 +15,11 @@
 - 🏅 Rated **Pupil on Codeforces**
 - 🌍 Currently working on:  
   - 🔹 A **Hotel Website**
-  - 🔹 A **Leetcode Friends Chrome Extensio**  
+  - 🔹 A **Leetcode Friends Chrome Extension**  
   - 🔹 An **Automatic GitHub Committer** (based on LeetCode submissions)  
-  - 🔹 An **ML Project for Next Word Prediction** using **Deep Learning & NLP** 🧠✨
+  - 🔹 An **ML Project for Next Word Prediction** and building an **LLM from scratch** 🧠✨
 - 💻 I love **Coding, Music, and Podcasts!**
-- 🎯 My goals: **To build impactful websites & ML projects. Currently working on a Tsunami Prediction Website 🌊**
+- 🎯 My goals: **To build impactful and meaningful projects and contribute Open source🌊**
 - 🧠 Fun fact - **Sleep is my #1 superpower 😴**
 
 Here’s my portfolio: [mohitportfolio-pi.vercel.app](https://mohitportfolio-pi.vercel.app/) 
