@@ -1,5 +1,5 @@
 <h1 align="center">Heyy! I'm Sai Mohit Kotta <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" /></h1>
-<h3 align="center">Welcome to my GitHub Profile!</h3>
+<h3 align="center">Full Stack Development, Machine Learning, Open Source contribution!</h3>
 
 ---
 
