@@ -15,7 +15,6 @@
   - 🔹 A **Hotel Booking Website**
   - 🔹 A **Leetcode Friends Chrome Extension-> Will get released in 1 week**    
   - 🔹 An **ML Project for Next Word Prediction** and building an **LLM from scratch** 🧠✨
-- 💻 I love **Coding, Music, and Podcasts!**
 - 🎯 My goals: **To build and contribute impactful  to meaningful projects and Open source!!!!🌊**
 - 🧠 Fun fact - **Sleep is my #1 superpower 😴**
 
