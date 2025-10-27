@@ -103,6 +103,15 @@ Here’s my portfolio: [mohitportfolio-pi.vercel.app](https://mohitportfolio-pi.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+##
+
+<a href="https://github.com/Mohitlikestocode">
+  <img alt="Mohit's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mohitlikestocode&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" width="450" />
+</a>
+<a href="https://github.com/Mohitlikestocode">
+  <img alt="Mohit's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mohitlikestocode&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="350" />
+</a>
+
 
 <div align="center">
   ❤️ Thanks for visiting my profile! Have a great day! 😊
