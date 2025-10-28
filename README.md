@@ -10,12 +10,12 @@
 ## 👤 About Me
 
 - 🎓 I'm a 2nd year Computer Science student at **Shiv Nadar University**
-- 🧩 Solved **350+ Data Structures & Algorithms problems** across platforms, **Pupil** on Codeforces  
+- 🧩 Solved **350+ Data Structures & Algorithms problems**, **Pupil** @ Codeforces  
 - 🌍 Currently working on:  
   - 🔹 A **Hotel Booking Website**
-  - 🔹 A **Leetcode Friends Chrome Extension-> Will get released in 1 week**    
-  - 🔹 An **ML Project for Next Word Prediction** and building an **LLM from scratch** 🧠✨
-- 🎯 My goals: **To build and contribute impactful  to meaningful projects and Open source!!!!🌊**
+  - 🔹 A **Leetcode Chrome Extension-> Will get released soon**    
+  - 🔹 An **ML Project for Next Word Prediction** + building an **LLM from scratch** 🧠✨
+- 🎯 My goals: **To build and contribute to meaningful projects and Open source!! 🌊**
 - 🧠 Fun fact - **Sleep is my #1 superpower 😴**
 
 Here’s my portfolio: [mohitportfolio-pi.vercel.app](https://mohitportfolio-pi.vercel.app/) 
