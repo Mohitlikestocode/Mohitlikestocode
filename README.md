@@ -5,7 +5,7 @@
 
 <table>
 <tr>
-<td>
+<td valign="top" width="60%">
 
 ## 👤 About Me
 
@@ -13,21 +13,28 @@
 - 🧩 Solved **350+ Data Structures & Algorithms problems**, **Pupil** @ Codeforces  
 - 🌍 Currently working on:  
   - 🔹 A **Hotel Booking Website**
-  - 🔹 A **Leetcode Chrome Extension-> Will get released soon**    
+  - 🔹 A **Leetcode Chrome Extension → Will get released soon**    
   - 🔹 An **ML Project for Next Word Prediction** + **LLM from scratch** 🧠
-- 🎯 My goals: **To build and contribute to meaningful projects/Open source!! 🌊**
+- 🎯 My goals: **To build and contribute to meaningful projects/Open Source!! 🌊**
 - 🧠 Fun fact - **Sleep is my #1 superpower 😴**
 
-Here’s my portfolio: [mohitportfolio-pi.vercel.app](https://mohitportfolio-pi.vercel.app/) 
+Here’s my portfolio: **[mohitportfolio-pi.vercel.app](https://mohitportfolio-pi.vercel.app/)**
 
 </td>
-<td>
+<td align="center" width="40%">
 
 <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="300"/>
+
+<br><br>
+
+<img src="https://github.com/user-attachments/assets/9e4134af-547d-4dc2-82c9-ff71e912d413" alt="lg25100" width="70" />
+<img src="https://github.com/user-attachments/assets/b92af6c6-0309-4dac-9d67-534ac82b0fe0" alt="lg2550" width="70" />
+<img src="https://github.com/user-attachments/assets/4fed59c0-a7f0-44a0-bc32-40d9f16ac633" alt="lvl0-astronaut" width="70" />
 
 </td>
 </tr>
 </table>
+
 
 ---
 
