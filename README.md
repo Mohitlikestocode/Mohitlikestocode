@@ -14,7 +14,7 @@
 - 🌍 Currently working on:  
   - 🔹 A **Hotel Booking Website**
   - 🔹 A **Leetcode Chrome Extension → Will get released soon**    
-  - 🔹 An **ML Project for Next Word Prediction** + **LLM from scratch** 🧠
+  - 🔹 An **ML Project - Next Word Prediction** + **LLM from scratch** 🧠
 - 🎯 My goals: **To build and contribute to meaningful projects/Open Source!! 🌊**
 - 🧠 Fun fact - **Sleep is my #1 superpower 😴**
 
