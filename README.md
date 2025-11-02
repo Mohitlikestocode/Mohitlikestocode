@@ -11,7 +11,7 @@
 
 - 🎓 I'm a 2nd year Computer Science student at **Shiv Nadar University**
 - 🧩 Solved **350+ Data Structures & Algorithms problems**, **Pupil** @ Codeforces
-- 💻 Contributed to **Juspay**, **AlchemistAI**, **SuperTinyIcons(SVGs)**! 
+- 💻 Contributed to **Juspay**, **AlchemistAI**, **SuperTinyIcons**! 
 - 🌍 Currently working on:  
   - 🔹 A **Hotel Booking Website**
   - 🔹 A **Leetcode Chrome Extension → Will get released soon**    
