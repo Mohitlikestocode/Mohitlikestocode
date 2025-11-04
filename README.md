@@ -30,7 +30,10 @@ Here’s my portfolio: **[mohitportfolio-pi.vercel.app](https://mohitportfolio-p
 
 <img src="https://github.com/user-attachments/assets/9e4134af-547d-4dc2-82c9-ff71e912d413" alt="lg25100" width="70" />
 <img src="https://github.com/user-attachments/assets/b92af6c6-0309-4dac-9d67-534ac82b0fe0" alt="lg2550" width="70" />
-<img src="https://github.com/user-attachments/assets/4fed59c0-a7f0-44a0-bc32-40d9f16ac633" alt="lvl0-astronaut" width="70" />
+<img src="https://github.com/user-attachments/assets/94d9893a-fee1-4569-a39f-6932d50e8695" alt="lvl0-astronaut" width="70" />
+<img src="https://github.com/user-attachments/assets/bf3a2d25-3451-4621-a64a-99ca1cc90952" alt="lvl0-astronaut" width="70" />
+
+
 
 </td>
 </tr>
