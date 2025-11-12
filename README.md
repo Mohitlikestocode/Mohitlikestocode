@@ -13,8 +13,8 @@
 - 🧩 Solved **350+ Data Structures & Algorithms problems**, **Pupil** @ Codeforces
 - 💻 Contributed to **Juspay**, **AlchemistAI**, **SuperTinyIcons**! 
 - 🌍 Currently working on:  
-  - 🔹 A **Hotel Booking Website**
-  - 🔹 A **Leetcode Chrome Extension → Will get released soon**    
+  - 🔹 A **Leetcode Chrome Extension → Will get released soon**
+  - 🔹 A **AI for Drug prediction** project
   - 🔹 An **ML Project - Next Word Prediction** + **LLM from scratch** 🧠
 - 🎯 My goals: **To build and contribute to meaningful projects/Open Source!! 🚀**
 - 🧠 Fun fact - **Sleep is my #1 superpower 😴**
