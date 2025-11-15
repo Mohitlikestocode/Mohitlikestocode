@@ -74,6 +74,10 @@ Here’s my portfolio: **[mohitportfolio-pi.vercel.app](https://mohitportfolio-p
   <img src="https://img.shields.io/badge/CodeChef-%235B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="codechef" style="margin-bottom: 5px;" />
 </a>
 
+<a href="https://www.kaggle.com/mohitlikestocode" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle" style="margin-bottom: 5px;" />
+</a>
+
 </div>
 
 ---
