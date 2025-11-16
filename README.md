@@ -10,9 +10,9 @@
 ## 👤 About Me
 
 - 🎓 I'm a 2nd year Computer Science student at **Shiv Nadar University**
-- 🧩 Solved **400+ Data Structures & Algorithms problems**, **Pupil** @ Codeforces
+- 🧩 Solved **400+ DSA problems**, **Pupil** @ Codeforces
 - 💻 Contributed to **Juspay**, **AlchemistAI**, **SuperTinyIcons**!
-- 📜 I've topped "Social Network Analysis" course on NPTEL, one of my core interests!
+- 📜 I've topped "Social Network Analysis" course on NPTEL (top 5%)
 - 🌍 Currently working on:  
   - 🔹 A **Leetcode Chrome Extension → Will get released soon**
   - 🔹 A **AI for Drug prediction** project
