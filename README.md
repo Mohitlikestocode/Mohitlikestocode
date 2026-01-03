@@ -18,7 +18,6 @@
   - 🔹 A **AI for Drug prediction** project
   - 🔹 An **ML Project - Next Word Prediction** + **LLM from scratch** 🧠
 - 🎯 My goals: **To build and contribute to meaningful projects/Open Source!! 🚀**
-- 🧠 Fun fact - **Sleep is my #1 superpower 😴**
 
 Here’s my portfolio: **[mohitportfolio-pi.vercel.app](https://mohitportfolio-pi.vercel.app/)**
 
@@ -83,50 +82,59 @@ Here’s my portfolio: **[mohitportfolio-pi.vercel.app](https://mohitportfolio-p
 
 ---
 
-## 📜 Quote I Like
-
-> "_It's never too late - never too late to start over, never too late to be happy :)_"
-
----
-
 ## 🛠 Tech Stack
 
-#### 🔧 Languages
+<table>
+<tr>
+<td valign="top" width="55%">
 
+#### 🔧 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-#### 📚 ML & Data Science Libraries
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
+#### 📚 ML & Data Science
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 #### 🧰 Tools
-
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</td>
+
+<td valign="top" width="45%" align="center">
+
+<a href="https://github.com/Mohitlikestocode">
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mohitlikestocode&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117"
+    width="100%" 
+  />
+</a>
+
+<br><br>
+
+<div style="margin-top: -12px;">
+  <p align="center">
+    <em>
+      "It's never too late — never too late to start over, never too late to be happy."
+    </em>
+  </p>
+</div>
+
+
+</td>
+</tr>
+</table>
 
 ---
-##
 
-<a href="https://github.com/Mohitlikestocode">
-  <img alt="Mohit's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mohitlikestocode&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" width="450" />
-</a>
-<a href="https://github.com/Mohitlikestocode">
-  <img alt="Mohit's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mohitlikestocode&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="350" />
-</a>
 
 
 <div align="center">
