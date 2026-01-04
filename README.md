@@ -131,7 +131,7 @@ Here’s my portfolio: **[mohitportfolio-pi.vercel.app](https://mohitportfolio-p
 
 
 <div align="center">
-  ❤️ Thanks for visiting my profile! Have a great day! 😊
+  ❤️ Thanks for visiting my profile! Have a great day! :)
 </div>
 
 <div align="right">
