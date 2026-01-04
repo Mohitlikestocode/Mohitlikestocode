@@ -1,8 +1,6 @@
 <h1 align="center">Heyy! I'm Sai Mohit Kotta <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px" /></h1>
 <h3 align="center">Full Stack Development, Machine Learning, Open Source contribution!</h3>
 
----
-
 <table>
 <tr>
 <td valign="top" width="60%">
@@ -38,9 +36,6 @@ Here’s my portfolio: **[mohitportfolio-pi.vercel.app](https://mohitportfolio-p
 </td>
 </tr>
 </table>
-
-
----
 
 ## 🌐 Connect with me:
 
@@ -79,8 +74,6 @@ Here’s my portfolio: **[mohitportfolio-pi.vercel.app](https://mohitportfolio-p
 </a>
 
 </div>
-
----
 
 ## 🛠 Tech Stack
 
