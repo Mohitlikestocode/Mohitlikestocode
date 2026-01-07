@@ -13,11 +13,9 @@
 - 📜 I've topped **"Social Network Analysis"** course on NPTEL **(top 5%)**
 - 🌍 Currently working on:  
   - 🔹 A **Leetcode Chrome Extension → Will get released soon**
-  - 🔹 A **AI for Drug prediction** project
+  - 🔹 A **RAG** Based Booking.com related project
   - 🔹 An **ML Project - Next Word Prediction** + **LLM from scratch** 🧠
 - 🎯 My goals: **To build and contribute to meaningful projects/Open Source!! 🚀**
-
-Here’s my portfolio: **[mohitportfolio-pi.vercel.app](https://mohitportfolio-pi.vercel.app/)**
 
 </td>
 <td align="center" width="40%">
