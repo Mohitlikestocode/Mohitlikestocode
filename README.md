@@ -16,6 +16,7 @@
   - 🔹 A **RAG** Based Booking.com related project
   - 🔹 An **ML Project - Next Word Prediction** + **LLM from scratch** 🧠
 - 🎯 My goals: **To build and contribute to meaningful projects/Open Source!! 🚀**
+- I am currently learning Dev-Ops, Backend and Machine Learning
 
 </td>
 <td align="center" width="40%">
