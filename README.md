@@ -8,7 +8,7 @@
 ## 👤 About Me
 - 🌐 **Portfolio website** - https://mohitlearns.vercel.app/
 - 🎓 I'm a 2nd year Computer Science student at **Shiv Nadar University**
-- 🧩 Solved **500+ DSA problems**, **Pupil** @ Codeforces
+- 🧩 Solved **550+ DSA problems**, **Pupil** @ Codeforces
 - 💻 Contributed to **Juspay**, **AlchemistAI**, **SuperTinyIcons**!
 - 📜 I've topped **"Social Network Analysis"** course on NPTEL **(top 5%)**
 - 🌍 Currently working on:  
