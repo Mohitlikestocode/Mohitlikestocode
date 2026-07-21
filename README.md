@@ -6,17 +6,16 @@
 <td valign="top" width="60%">
 
 ## 👤 About Me
-- 🌐 **Portfolio website** - https://mohitlearns.vercel.app/
-- 🎓 I'm a 2nd year Computer Science student at **Shiv Nadar University**
-- 🧩 Solved **550+ DSA problems**, **Pupil** @ Codeforces
-- 💻 Contributed to **Juspay**, **AlchemistAI**, **SuperTinyIcons**!
-- 📜 I've topped **"Social Network Analysis"** course on NPTEL **(top 5%)**
-- 🌍 Currently working on:  
-  - 🔹 A **Leetcode Chrome Extension → Will get released soon**
-  - 🔹 A **RAG** Based Booking.com related project
-  - 🔹 An **ML Project - Next Word Prediction** + **LLM from scratch** 🧠
-- 🎯 My goals: **To build and contribute to meaningful projects/Open Source!! 🚀**
-- I am currently learning Dev-Ops, Backend and Machine Learning
+
+- 🚀 Founder & Founding Engineer at **Vaani AI**, building production-ready AI Voice Agents for businesses
+- 🤖 Passionate about **AI Agents**, **Voice AI**, **LLMs**, **RAG**, **MCP**, and scalable AI infrastructure
+- 💼 Software Engineering & Machine Learning Intern @ **Cleo**
+- 🎓 Computer Science Undergraduate @ **Shiv Nadar University**
+- 🧠 I enjoy taking products from **idea → architecture → deployment → real users**
+- ✍️ I regularly write about AI Agents, Voice AI, system architecture, and lessons from building production AI systems
+- 🌍 Open Source contributor with merged PRs to **Juspay**, **AlchemistAI**, **SuperTinyIcons**, and more
+- 🏆 Hackathon enthusiast with multiple national-level wins and finalist positions
+- 🎯 My mission is to build AI products that people actually use, not just AI demos
 
 </td>
 <td align="center" width="40%">
