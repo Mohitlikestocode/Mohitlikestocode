@@ -7,8 +7,8 @@
 
 ## 👤 About Me
 
-- 🚀 Founder & Founding Engineer at **Vaani AI**, building production-ready AI Voice Agents for businesses
-- 🤖 Passionate about **AI Agents**, **Voice AI**, **LLMs**, **RAG**, **MCP**, and scalable AI infrastructure
+- 🚀 Computer Science Student, interest in Machine Learning and Forward Deployed engineering
+- 🤖 Passionate and currently learning about **Architecture**,**LLMs**, **RAG**, **MCP**
 - 💼 Software Engineering & Machine Learning Intern @ **Cleo**
 - 🎓 Computer Science Undergraduate @ **Shiv Nadar University**
 - 🧠 I enjoy taking products from **idea → architecture → deployment → real users**
